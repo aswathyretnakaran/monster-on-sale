@@ -12,7 +12,12 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.App-h1-font {
+  font-family: "Creepster";
+  font-weight: bold;
+  font-size: 72px;
+  color: #0ccac4;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
